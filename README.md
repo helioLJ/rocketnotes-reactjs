@@ -32,7 +32,19 @@
 
 ## Aprendizados 📖
 
-- 
+- O que é ReactJS
+- Vite
+- Estrutura de pastas e arquivos
+- Executando projeto
+- JSX
+- Fragment
+- CSS, Pré-processadores e CSS-inJs
+- Styled Components
+- Componentes (components)
+- Propriedades (props)
+- Children
+- React Icons
+- React Router DOM
 
 
 ## Referência
