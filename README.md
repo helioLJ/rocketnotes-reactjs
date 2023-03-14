@@ -54,4 +54,4 @@ Se você tiver algum feedback, por favor me deixe saber por alguns canais de con
 
 ## Licença 👨‍💼
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/helioLJ/rocket-notes/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/helioLJ/rocketnotes-reactjs/blob/main/LICENSE))
